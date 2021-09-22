@@ -1,0 +1,14 @@
+venv/
+news/
+runs/
+__pycache__
+best_valid_loss_model.pt
+aibo_backup.db
+z.py
+test.py
+test.txt
+todo.md
+translate/runs
+translate/__pycache__
+translate/saved_model/
+translate/.data/
